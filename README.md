@@ -40,27 +40,48 @@ ________________________________________
 
 
 NoteTaker/
+
 │── pom.xml                         # Maven dependencies & build settings
+
 │── src/main/java/com/entities/Note.java          # Hibernate entity for Note
+
 │── src/main/java/com/helper/FactoryProvider.java # Hibernate SessionFactory
+
 │── src/main/java/com/servlets/
+
 │   ├── SaveNoteServlet.java        # Add note
+
 │   ├── UpdateServlet.java          # Edit note
+
 │   └── DeleteServlet.java          # Delete note
+
 │
+
 │── src/main/resources/hibernate.cfg.xml          # Hibernate config
+
 │
+
 │── src/main/webapp/
 │   ├── index.jsp                   # Home page
+
 │   ├── add_notes.jsp               # Add Note page
+
 │   ├── all_notes.jsp               # View Notes page
+
 │   ├── edit.jsp                    # Update Note page
+
 │   ├── navbar.jsp                  # Navigation bar
+
 │   ├── all_js_css.jsp              # Shared CSS/JS imports
+
 │   ├── img/                        # App icons/images
+
 │   └── WEB-INF/web.xml             # Deployment descriptor
+
 │
+
 │── pom.xml                           # Maven dependencies & build settings
+
 
 ________________________________________
 ### 🏆 **Challenges Faced**
