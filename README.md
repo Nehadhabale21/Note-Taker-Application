@@ -1,4 +1,3 @@
-<img width="1899" height="895" alt="Update Note" src="https://github.com/user-attachments/assets/3a251930-254f-4000-be72-24b4f22d311e" />
 # 📝 **NoteTaker - Personal Note Taking App**
 
 
